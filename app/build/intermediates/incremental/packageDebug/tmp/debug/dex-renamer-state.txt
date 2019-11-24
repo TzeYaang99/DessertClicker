@@ -1,4 +1,4 @@
-#Sat Nov 23 01:59:09 SGT 2019
-base.0=C\:\\Users\\khorw\\Desktop\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sun Nov 24 21:32:49 SGT 2019
+base.0=C\:\\Users\\Wei Yi\\Desktop\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
